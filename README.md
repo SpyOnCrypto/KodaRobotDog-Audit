@@ -16,7 +16,7 @@ In order to achieve this goal, they plan to gain visibility from influencers.</p
 
 <p>With all these informations we didn’t detect any vulnerabilities that could come from outside, the KodaRobotDog smart contract seems safe from the owner & investors perspective</p>
 
-<p><a href="https://github.com/SpyOnCrypto/KodaRobotDog-Audit/blob/main/Inu-Audit.pdf">➡️ Please Check out the complete Audit to have further information on KodaRobotDog</a></p>
+<p><a href="https://github.com/SpyOnCrypto/KodaRobotDog-Audit/blob/main/KodaRobotDog-Audit.pdf">➡️ Please Check out the complete Audit to have further information on KodaRobotDog</a></p>
 
 <h4>KodaRobotDog Social Media :</h4>
 
